@@ -1,0 +1,19 @@
+.all-card {
+  height: 500px;
+}
+.special-card {
+  height: 500px;
+}
+.card-style {
+  border-radius: 26px;
+  color: white;
+  position: relative;
+}
+
+.heading {
+  color: #231d4f;
+}
+.card-text {
+  font-weight: 500;
+  font-size: 15px;
+}
